@@ -1,5 +1,5 @@
 # hello-world
 
-CSE 360 Hellow World git demo
+CSE 360 Hello World git demo
 
 Name: Anh Pham
